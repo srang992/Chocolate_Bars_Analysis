@@ -5,6 +5,9 @@ dataset containing rating of over 2500 plain dark chocolate
 bars collected from different countries. The dataset is collected from 
 [here](http://flavorsofcacao.com/chocolate_database.html).
 
+### 📺 Demo:
+![streamlit-main_page-2022-07-11-21-07-26](https://user-images.githubusercontent.com/86141125/178313023-c4d82965-bfe9-4ef4-bba9-253007a3eac0.gif)
+
 ### 💾 The Data:
 **Column Name**|**Description**
 -----|-----
